@@ -39,7 +39,7 @@ This project provides a streamlined system for managing blood donations, sample 
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/blood-bank-sample-collection.git
+git clone https://github.com/amalkochuparambilp/blood-bank.git
 ```
 
 2. **Database Setup**
